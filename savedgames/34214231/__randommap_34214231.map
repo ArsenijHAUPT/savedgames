@@ -1,0 +1,395 @@
+--
+-- Random map file for Dominions 6
+--
+-- Illwinter Game Design
+-- www.illwinter.com
+--
+
+#dom2title __randommap_34214231
+#imagefile __randommap_34214231.d6m
+#mapsize 3584 2784
+#domversion 575
+#hwraparound
+-- defaultmapzoom is not used in Dominions 6, 5 or 4, but it is here if you want the map for Dominions 3
+#defaultmapzoom 0.432610
+
+#description "This is a randomly created map. It has 90 provinces and is 3584 x 2784 pixels large."
+
+#neighbour 1 4
+#neighbour 1 8
+#neighbour 1 11
+#neighbour 1 12
+#neighbour 2 5
+#neighbour 2 7
+#neighbour 2 10
+#neighbour 3 5
+#neighbour 3 6
+#neighbour 3 14
+#neighbour 3 19
+#neighbour 4 6
+#neighbour 4 9
+#neighbour 4 11
+#neighbour 5 10
+#neighbour 5 19
+#neighbour 6 9
+#neighbour 6 13
+#neighbour 6 14
+#neighbour 6 18
+#neighbour 6 23
+#neighbour 6 30
+#neighbour 7 8
+#neighbour 7 10
+#neighbour 7 15
+#neighbour 7 16
+#neighbour 8 12
+#neighbour 8 16
+#neighbour 9 11
+#neighbour 9 13
+#neighbour 10 15
+#neighbour 10 19
+#neighbour 10 20
+#neighbour 10 27
+#neighbour 11 12
+#neighbour 11 13
+#neighbour 11 18
+#neighbourspec 11 18 36
+#neighbour 11 22
+#neighbour 11 26
+#neighbourspec 11 26 36
+#neighbour 12 16
+#neighbour 12 17
+#neighbour 12 22
+#neighbour 13 18
+#neighbour 14 19
+#neighbour 14 30
+#neighbour 14 36
+#neighbour 15 16
+#neighbour 15 20
+#neighbourspec 15 20 2
+#neighbour 15 25
+#neighbour 16 17
+#neighbour 16 24
+#neighbour 16 25
+#neighbour 17 21
+#neighbour 17 22
+#neighbour 17 24
+#neighbour 18 23
+#neighbour 18 26
+#neighbourspec 18 26 33
+#neighbour 19 27
+#neighbour 19 36
+#neighbour 19 38
+#neighbour 20 25
+#neighbourspec 20 25 2
+#neighbour 20 27
+#neighbour 20 32
+#neighbour 21 22
+#neighbour 21 24
+#neighbour 21 28
+#neighbour 22 26
+#neighbourspec 22 26 36
+#neighbour 22 28
+#neighbour 22 29
+#neighbour 22 35
+#neighbour 22 37
+#neighbour 23 26
+#neighbour 23 30
+#neighbour 23 31
+#neighbour 23 39
+#neighbour 24 25
+#neighbour 24 28
+#neighbour 24 33
+#neighbour 25 32
+#neighbourspec 25 32 2
+#neighbour 25 33
+#neighbour 25 34
+#neighbour 26 29
+#neighbour 26 31
+#neighbour 27 32
+#neighbour 27 38
+#neighbour 27 46
+#neighbour 28 33
+#neighbour 28 37
+#neighbour 29 31
+#neighbour 29 35
+#neighbour 29 40
+#neighbourspec 29 40 36
+#neighbour 30 36
+#neighbour 30 39
+#neighbour 30 47
+#neighbour 30 49
+#neighbour 30 50
+#neighbour 31 39
+#neighbour 31 40
+#neighbourspec 31 40 36
+#neighbour 31 41
+#neighbour 32 34
+#neighbourspec 32 34 2
+#neighbour 32 43
+#neighbour 32 46
+#neighbourspec 32 46 2
+#neighbour 33 34
+#neighbour 33 37
+#neighbour 33 42
+#neighbourspec 33 42 2
+#neighbour 33 44
+#neighbourspec 33 44 16
+#neighbour 34 43
+#neighbour 34 44
+#neighbourspec 34 44 2
+#neighbour 34 53
+#neighbourspec 34 53 2
+#neighbour 35 37
+#neighbour 35 40
+#neighbour 35 45
+#neighbour 36 38
+#neighbour 36 50
+#neighbour 36 58
+#neighbour 37 42
+#neighbourspec 37 42 16
+#neighbour 37 45
+#neighbour 37 52
+#neighbourspec 37 52 2
+#neighbour 38 46
+#neighbour 38 51
+#neighbour 38 58
+#neighbour 39 41
+#neighbour 39 49
+#neighbour 40 41
+#neighbourspec 40 41 36
+#neighbour 40 45
+#neighbour 40 48
+#neighbourspec 40 48 36
+#neighbour 41 48
+#neighbour 41 49
+#neighbour 42 44
+#neighbour 42 52
+#neighbour 42 57
+#neighbour 43 46
+#neighbour 43 53
+#neighbourspec 43 53 16
+#neighbour 43 60
+#neighbourspec 43 60 2
+#neighbour 44 53
+#neighbour 44 57
+#neighbour 45 48
+#neighbour 45 52
+#neighbourspec 45 52 2
+#neighbour 45 61
+#neighbourspec 45 61 2
+#neighbour 46 51
+#neighbourspec 46 51 2
+#neighbour 46 60
+#neighbourspec 46 60 16
+#neighbour 47 49
+#neighbour 47 50
+#neighbour 47 55
+#neighbour 47 59
+#neighbour 47 62
+#neighbour 48 49
+#neighbour 48 54
+#neighbourspec 48 54 16
+#neighbour 48 61
+#neighbourspec 48 61 2
+#neighbour 49 54
+#neighbour 49 55
+#neighbour 49 56
+#neighbour 50 58
+#neighbour 50 62
+#neighbour 50 68
+#neighbour 51 58
+#neighbour 51 60
+#neighbour 52 57
+#neighbour 52 61
+#neighbour 52 63
+#neighbourspec 52 63 36
+#neighbour 52 65
+#neighbourspec 52 65 36
+#neighbour 53 57
+#neighbour 53 60
+#neighbour 53 66
+#neighbour 54 56
+#neighbour 54 61
+#neighbour 54 64
+#neighbour 54 70
+#neighbour 55 56
+#neighbour 55 59
+#neighbour 55 71
+#neighbour 56 64
+#neighbour 56 71
+#neighbour 57 63
+#neighbour 57 66
+#neighbour 58 60
+#neighbour 58 68
+#neighbour 58 72
+#neighbour 58 80
+#neighbour 59 62
+#neighbour 59 67
+#neighbour 59 71
+#neighbour 60 66
+#neighbour 60 72
+#neighbour 60 74
+#neighbour 61 65
+#neighbourspec 61 65 36
+#neighbour 61 70
+#neighbour 61 73
+#neighbour 62 67
+#neighbour 62 68
+#neighbour 63 65
+#neighbour 63 66
+#neighbour 63 69
+#neighbour 64 70
+#neighbour 64 71
+#neighbour 64 78
+#neighbour 65 69
+#neighbourspec 65 69 36
+#neighbour 65 73
+#neighbour 65 76
+#neighbourspec 65 76 36
+#neighbour 65 82
+#neighbour 66 69
+#neighbour 66 74
+#neighbour 66 79
+#neighbour 67 68
+#neighbour 67 71
+#neighbour 67 75
+#neighbour 68 75
+#neighbour 68 80
+#neighbour 68 84
+#neighbour 69 76
+#neighbour 69 81
+#neighbour 70 73
+#neighbour 70 77
+#neighbour 70 78
+#neighbour 71 75
+#neighbour 71 78
+#neighbour 72 74
+#neighbour 72 80
+#neighbourspec 72 80 2
+#neighbour 72 83
+#neighbour 72 85
+#neighbour 73 77
+#neighbour 73 82
+#neighbour 73 87
+#neighbour 74 79
+#neighbour 74 85
+#neighbour 74 90
+#neighbour 75 78
+#neighbour 75 84
+#neighbour 75 86
+#neighbour 76 81
+#neighbour 76 82
+#neighbour 77 78
+#neighbour 77 87
+#neighbour 77 88
+#neighbour 78 86
+#neighbour 78 88
+#neighbour 79 81
+#neighbourspec 79 81 36
+#neighbour 79 89
+#neighbour 79 90
+#neighbour 80 83
+#neighbour 80 84
+#neighbour 81 82
+#neighbourspec 81 82 36
+#neighbour 81 89
+#neighbour 82 87
+#neighbour 83 85
+#neighbour 84 86
+#neighbour 85 90
+#neighbour 86 88
+#neighbour 87 88
+#neighbour 89 90
+
+#terrain 1 5
+#terrain 2 4
+#terrain 3 2
+#terrain 4 4
+#terrain 5 2
+#terrain 6 2054
+#terrain 7 4
+#terrain 8 2
+#terrain 9 1
+#terrain 10 4
+#terrain 11 8388608
+#terrain 12 0
+#terrain 13 1
+#terrain 14 2054
+#terrain 15 8
+#terrain 16 0
+#terrain 17 1
+#terrain 18 8388609
+#terrain 19 4
+#terrain 20 8
+#terrain 21 1
+#terrain 22 8388608
+#terrain 23 0
+#terrain 24 1
+#terrain 25 8
+#terrain 26 8388609
+#terrain 27 2052
+#terrain 28 1
+#terrain 29 8388609
+#terrain 30 2052
+#terrain 31 8388609
+#terrain 32 8
+#terrain 33 8
+#terrain 34 8
+#terrain 35 0
+#terrain 36 2052
+#terrain 37 8
+#terrain 38 2052
+#terrain 39 1
+#terrain 40 8388609
+#terrain 41 8388609
+#terrain 42 8
+#terrain 43 8
+#terrain 44 8
+#terrain 45 8
+#terrain 46 8
+#terrain 47 0
+#terrain 48 8388617
+#terrain 49 1
+#terrain 50 2
+#terrain 51 8
+#terrain 52 8388616
+#terrain 53 8
+#terrain 54 8
+#terrain 55 1
+#terrain 56 1
+#terrain 57 0
+#terrain 58 4
+#terrain 59 1
+#terrain 60 10
+#terrain 61 8388616
+#terrain 62 0
+#terrain 63 8388608
+#terrain 64 1
+#terrain 65 8388608
+#terrain 66 0
+#terrain 67 1
+#terrain 68 5
+#terrain 69 8388608
+#terrain 70 1
+#terrain 71 0
+#terrain 72 8
+#terrain 73 0
+#terrain 74 2
+#terrain 75 1
+#terrain 76 8388608
+#terrain 77 1
+#terrain 78 0
+#terrain 79 8388608
+#terrain 80 10
+#terrain 81 8388608
+#terrain 82 8388608
+#terrain 83 2
+#terrain 84 4
+#terrain 85 0
+#terrain 86 2
+#terrain 87 0
+#terrain 88 0
+#terrain 89 0
+#terrain 90 0
+
+
